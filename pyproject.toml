@@ -46,6 +46,7 @@ dependencies = [
   "gql[all]==4.0.0",
   "aiovban>=0.6.3",
   "aiortc>=1.6.0",
+  "aiosendspin @ git+https://github.com/Sendspin/aiosendspin.git@main",
 ]
 description = "Music Assistant"
 license = {text = "Apache-2.0"}
